@@ -1,0 +1,99 @@
+# Copyright (C) 2017 Mikael Carlavan <contact@mika-carl.fr>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#
+# Générique
+#
+
+# Module label 'ModuleDoliTourName'
+ModuleDoliTourName = Ecrans d'accueil
+# Module description 'ModuleDoliTourDesc'
+ModuleDoliTourDesc = Module permettant de configurer les écrans d'accueil de l'application mobile
+
+#
+# Page d'administration
+#
+DoliTourSetup = Configuration du module
+Settings = Réglages
+DoliTourSetupPage = Page de réglage du module
+DoliTourOptions = Options
+Description = Description
+Value = Valeur
+Action = Action
+DoliToursNumberingModules = Modèle de numérotation des écrans
+NextValue=Prochaine valeur
+NoDescription=Aucune description
+NoExample=Aucun exemple
+NotAvailable=Non disponible
+DoliTour = Ecran
+DoliTours = Ecrans
+DescONBOARDING_SHOW_ME_THE_CONTEXT = Afficher le contexte de la page pour faciliter la création des guides
+DescONBOARDING_SHOW_PROGRESS = Afficher la progression
+DescONBOARDING_ALLOW_CLOSE = Autoriser l'utilisateur à quitter le tour
+DescONBOARDING_OVERLAY_COLOR = Couleur du fond de superposition (overlay)
+
+#
+# Page À propos
+#
+About = À propos
+DoliTourAbout = À propos du module
+DoliTourAboutPage = Page à propos du module
+DoliTourAboutDescLong = Ce module a été développé par <a href="http://www.mikael-carlavan.fr">Mikael Carlavan</a> pour le <a href="http://www.cpie54.com">Centre Permanent d'Initiatives pour l'Environnement</a>.
+
+# ChangeLog
+ChangeLog = ChangeLog
+ChangeLogVersion = Version
+ChangeLogDate = Date
+ChangeLogUpdates = Modification apportées
+DoliTourFirstVersion = Première version
+
+#
+DoliToursMenu = Ecrans
+DoliToursList = Liste
+ListeDoliTours = Liste des écrans
+DoliToursNew = Nouvel écran
+DoliToursArea = Espace écrans
+NoDoliTour = Aucun écran
+LastModifiedDoliTours = Les %d dernières écrans modifiés
+
+#
+NewDoliTour = Nouvel écran
+CreateDoliTour = Créer un écran
+ShowDoliTour = Voir l'écran
+DoliTourCard = Ecran
+Info = Suivi
+Ref = Réf.
+Title = Titre
+Description = Description
+Photo = Photo
+DateStart = Date de début
+DateEnd = Date de fin
+Active = Actif
+DateCreation = Date de création
+DateModificationShort = Date de modif.
+ListOfDoliTours = Liste des écrans
+CreateByUsers = Utilisateurs
+SetTitle = Modifier le titre
+#
+MassActionDelete = Supprimer
+DeleteDoliTour = Supprimer
+ConfirmDeleteDoliTour = Êtes-vous sûr de vouloir effacer cet écran ?
+#
+DoliTourDetails = Détails
+SearchIntoDoliTours = Ecrans
+#
+AccessNotAllowed = Cette action ne vous est pas autorisée.
+DoliTourNotFound = L'écran n'a pas été trouvé.
+ErrorWhileRetrievingDoliTourList = Erreur lors de la récupération de la liste des écrans.
